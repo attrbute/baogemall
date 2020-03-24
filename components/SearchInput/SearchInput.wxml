@@ -1,0 +1,7 @@
+<view class="search_input">
+    <!-- url设置跳转到search页面 open-type 跳转方式 -->
+    <navigator url="/pages/search/index" open-type="navigate">
+        搜索
+    </navigator>
+</view>
+
